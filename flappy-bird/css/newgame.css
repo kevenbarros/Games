@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+[wm-game] {
+    position: absolute;
+        border: 5px solid rgb(0, 0, 0);
+        height: 700px;
+        width: 1200px;
+        margin: 15px;
+        overflow: hidden;
+}
+.nave{
+    position: absolute;
+    width: 90px;
+    /*left: calc(50%-30px);*/
+}
+.blocos-aleatorios{
+        position: absolute;
+        top: 0;
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+}
+.blocos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bloco {
+    height: 30px;
+    width: 30px;
+    background: linear-gradient(90deg, rgb(250, 39, 39), #0a8b5a);
+    border: 2px solid #000;
+}
