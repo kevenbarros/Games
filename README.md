@@ -8,3 +8,7 @@ Jogo construido com javascript, html e css
 # Pong
 Recriando um clássico o jogo pong foi construido com javascript e html
 ![pong](https://user-images.githubusercontent.com/69265078/181006572-caf5d2ef-7e51-4677-9b4d-e52512198c02.gif)
+
+# Flappy Bird
+jogo construido com Javascript, html, css
+![Captura de Ecrã (318)](https://user-images.githubusercontent.com/69265078/181009432-696537fb-e58e-4f8a-bb56-570ad099a454.png)
